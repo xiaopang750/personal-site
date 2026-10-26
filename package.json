@@ -1,0 +1,20 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/xiaopang750/personal-site#readme",
+  "bugs": {
+    "url": "https://github.com/xiaopang750/personal-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaopang750/personal-site.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
